@@ -1,0 +1,30 @@
+.wrapper{border: 20px solid purple;
+    margin-top: 100px;
+    margin-right: 250px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    padding: 30px 30px 30px 30px;}
+
+    #ostriches{
+        border-style: ridge;
+        border-color: seagreen;
+    }
+
+
+    p{
+        font-family:"Times New Roman", Times, serif
+        
+    }
+
+    .birds{    position: fixed;
+        top: 0;
+        right: 0;
+        width: 350px;
+    background-color: cornsilk;
+    border: 10px solid pink;
+    }
+    .extrademotext{
+        background-color: lightgrey;
+        font-style: italic;
+
+    }
